@@ -23,3 +23,7 @@ Project is created with:
     Write the code that, when a and b are positive and condition = false, will print the word "Tester",
        and otherwise "Automatic"
 
+#### 3.
+    Write code (in the main method) that prints information about the time of year depending on the given month.
+    Use the Switch statement
+
