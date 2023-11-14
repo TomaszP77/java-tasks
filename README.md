@@ -14,5 +14,12 @@ Project is created with:
     - Sum both variables and then multiply by 30
     - Divide the obtained value by 70
     - If the remainder of the division is greater than 15, write an appropriate message on the screen
-   
+
+#### 2.
+    Three values are given:
+        a = 10
+        b = 20
+        condition = true
+    Write the code that, when a and b are positive and condition = false, will print the word "Tester",
+       and otherwise "Automatic";
 

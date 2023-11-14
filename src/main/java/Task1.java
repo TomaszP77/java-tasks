@@ -10,8 +10,6 @@ public class Task1 {
 
         if (e > 15) {
             System.out.println("The remainder of the division is greater than 15");
-        } else {
-            System.out.println("The remainder of the division is less than 15");
         }
     }
 }
