@@ -21,5 +21,5 @@ Project is created with:
         b = 20
         condition = true
     Write the code that, when a and b are positive and condition = false, will print the word "Tester",
-       and otherwise "Automatic";
+       and otherwise "Automatic"
 
