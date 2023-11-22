@@ -27,3 +27,12 @@ Project is created with:
     Write code (in the main method) that prints information about the time of year depending on the given month.
     Use the Switch statement
 
+#### 4.
+    Write code (in the main method) to check whether the given year is a leap year.
+    Tip: A leap year meets one of the following conditions
+    - is divisible by 4, but at the same time not divisible by 100
+    - is divisible by 400
+    
+    * Please check some examples: e.g. 2018; 1600
+    * Your code should work for years in the range 1 - 9999;
+
