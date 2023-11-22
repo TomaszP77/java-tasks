@@ -36,3 +36,9 @@ Project is created with:
     * Please check some examples: e.g. 2018; 1600
     * Your code should work for years in the range 1 - 9999;
 
+#### 5.
+    Write a method that returns the number of days in a given month. The method should
+    accept two arguments:
+    - month number
+    - year
+
