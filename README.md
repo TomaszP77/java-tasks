@@ -42,3 +42,6 @@ Project is created with:
     - month number
     - year
 
+#### 6.
+    Use the code from the previous task to return the correct number of days in
+    February.
