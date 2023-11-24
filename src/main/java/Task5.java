@@ -1,13 +1,13 @@
 public class Task5 {
 
     public static void main(String[] args) {
-        int liczbaDni = iloscDni(2, 2000);
-        System.out.println(" Liczba dni w podanym miesiacu to " + liczbaDni);
+        int numberOfDays = numberOfDays(2, 2000);
+        System.out.println(" The number of days in the given month is " + numberOfDays);
     }
 
-    public static int iloscDni(int numerMiesiaca, int rok) {
+    public static int numberOfDays(int monthNumber, int year) {
 
-        switch (numerMiesiaca) {
+        switch (monthNumber) {
             case 1:
             case 3:
             case 5:
@@ -17,7 +17,7 @@ public class Task5 {
             case 12:
                 return 31;
             case 2:
-                if (rok % 4 == 0 && rok % 100 != 0 || rok % 400 == 0) {
+                if (year % 4 == 0 && year % 100 != 0 || year % 400 == 0) {
                     return 29;
                 } else {
                     return 28;
