@@ -2,8 +2,8 @@ public class Task7 {
 
     public static void main(String[] args) {
         Task7 solution = new Task7();
-        solution.loopDoWhile();
         solution.loopWhile();
+        solution.loopDoWhile();
         solution.loopFor();
     }
 
