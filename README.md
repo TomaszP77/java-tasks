@@ -45,3 +45,8 @@ Project is created with:
 #### 6.
     Use the code from the previous task to return the correct number of days in
     February.
+
+#### 7.
+    Write a program that will display consecutive natural numbers from 1 to 10 on the screen in three different loops: 
+    while, do-while and for.
+    Additionally, for each number, the program should display information whether the number is even or odd.
