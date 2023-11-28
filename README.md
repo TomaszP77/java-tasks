@@ -53,3 +53,6 @@ Project is created with:
 
 #### 8.
     Write a program that checks whether a number is divisible by 5.
+
+#### 9.
+    Write a program that reverses the order of words received from the user.
