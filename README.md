@@ -56,3 +56,7 @@ Project is created with:
 
 #### 9.
     Write a program that reverses the order of words received from the user.
+
+#### 10.
+    Write a lottery program in which the user must enter a number from 1 to 10.
+    If the number is the same as the number randomly selected by the program, the user wins $1,000.
