@@ -60,3 +60,11 @@ Project is created with:
 #### 10.
     Write a lottery program in which the user must enter a number from 1 to 10.
     If the number is the same as the number randomly selected by the program, the user wins $1,000.
+
+#### 11.
+    Write a program that receives two numbers from the user and performs basic mathematical operations on them:
+    - adding
+    - subtraction
+    - multiplication
+    - division
+    - the remainder from division
