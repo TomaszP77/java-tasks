@@ -62,9 +62,19 @@ Project is created with:
     If the number is the same as the number randomly selected by the program, the user wins $1,000.
 
 #### 11.
-    Write a program that receives two numbers from the user and performs basic mathematical operations on them:
+    Write a program that receives two integers from the user and performs basic mathematical operations on them:
     - adding
     - subtraction
     - multiplication
     - division
     - the remainder from division
+
+#### 12.
+    Rework the previous task to create a separate "Basic Mathematical Operations" class with 5 methods:
+    -addition
+    -subtraction
+    -multiplication
+    -division
+    -the remainder from division.
+
+    Then create an object of the "Basic Mathematical Operations" class and call all the methods in the appropriate place in the code.
