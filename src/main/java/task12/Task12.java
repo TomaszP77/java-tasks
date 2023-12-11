@@ -15,7 +15,6 @@ public class Task12 {
 
         BasicMathematicalOperations calculator = new BasicMathematicalOperations();
 
-
         int addition = calculator.addition(firstNumber, secondNumber);
         int subtraction = calculator.subtraction(firstNumber, secondNumber);
         int multiplication = calculator.multiplication(firstNumber, secondNumber);
