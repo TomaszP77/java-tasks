@@ -78,3 +78,18 @@ Project is created with:
     -the remainder from division.
 
     Then create an object of the "Basic Mathematical Operations" class and call all the methods in the appropriate place in the code.
+
+#### 13.
+    Write a program that will enable the registration of hotel guests. The program should contain 2 classes:
+    - Hotel guests
+    - Registration of hotel guests.
+
+    The "Hotel guests" class should contain methods responsible for:
+    - Method taking first and last name
+    - Method taking the length of stay
+    - Method of selecting a room with or without a terrace
+    - Method of selecting breakfast delivered to the room
+
+    The "Hotel Guest Registration" class should contain 3 objects of the "Hotel Guests" class, which will create 3 customers with their preferences.
+    You can choose your data and preferences freely.
+    
