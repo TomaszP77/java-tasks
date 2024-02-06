@@ -95,5 +95,5 @@ Project is created with:
     You can choose your data and preferences freely.
 
 #### 13a.
-    Modify the code from task 13 so that providing your name and surname is mandatory. Use a constructor.
-    
+    Modify the code from task 13 so that providing the name and surname is mandatory when creating
+    an object of the Hotel guests class. Use a constructor.  
