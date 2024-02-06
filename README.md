@@ -93,4 +93,7 @@ Project is created with:
     The "Hotel Guest Registration" class should contain 3 objects of the "Hotel Guests" class,
     which will create 3 customers with their preferences.
     You can choose your data and preferences freely.
+
+#### 13a.
+    Modify the code from task 13 so that providing your name and surname is mandatory. Use a constructor.
     
