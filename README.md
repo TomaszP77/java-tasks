@@ -90,6 +90,7 @@ Project is created with:
     - Method of selecting a room with or without a terrace
     - Method of selecting breakfast delivered to the room
 
-    The "Hotel Guest Registration" class should contain 3 objects of the "Hotel Guests" class, which will create 3 customers with their preferences.
+    The "Hotel Guest Registration" class should contain 3 objects of the "Hotel Guests" class,
+    which will create 3 customers with their preferences.
     You can choose your data and preferences freely.
     
