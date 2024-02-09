@@ -97,3 +97,7 @@ Project is created with:
 #### 13a.
     Modify the code from task 13 so that providing the name and surname is mandatory when creating
     an object of the Hotel guests class. Use a constructor.  
+
+#### 13b.
+    Modify the code from exercise 13. Create boards and add hotel guests to the board.
+    Then loop through the hotel guests in the array and call all the methods.
