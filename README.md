@@ -101,3 +101,9 @@ Project is created with:
 #### 13b.
     Modify the code from exercise 13. Create boards and add hotel guests to the board.
     Then loop through the hotel guests in the array and call all the methods.
+
+#### 13c.
+    Modify the code from exercise 13. Create a hotel guest list.
+    Then go through the hotel guest list and call all the methods. Use two approaches:
+    - For Loop
+    - For-Each Loop
